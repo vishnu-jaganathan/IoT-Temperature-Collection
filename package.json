@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "az-iot-bi": "^0.1.18",
+    "azure-iot-device": "1.1.7",
+    "azure-iot-device-mqtt": "1.1.7",
+    "bme280-sensor": "^0.1.6",
+    "wiring-pi": ">=2.1.1"
+  } 
+}
